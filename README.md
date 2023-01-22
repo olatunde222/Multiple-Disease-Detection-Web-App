@@ -1,2 +1,3 @@
 # Multiple-Disease-Detection-Web-App
-BuilUsing 
+Building a multiple disease prediction 
+Using Streamlit for Web App deployment  
